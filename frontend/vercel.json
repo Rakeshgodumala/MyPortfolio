@@ -1,8 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
-    { "source": "/api/:path*", "destination": "https://YOUR-BACKEND.onrender.com/api/:path*" },
-    { "source": "/((?!assets/|resume/|favicon.svg|og-image.svg|robots.txt).*)", "destination": "/index.html" }
+    { "source": "/((?!assets/|resume/|projects/|favicon.svg|og-image.svg|robots.txt).*)", "destination": "/index.html" }
   ],
   "headers": [
     {
