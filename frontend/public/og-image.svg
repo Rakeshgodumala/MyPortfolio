@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <circle cx="1050" cy="120" r="260" fill="#6366f1" opacity="0.18"/>
+  <circle cx="150" cy="560" r="220" fill="#3b82f6" opacity="0.14"/>
+  <text x="100" y="270" font-family="Inter, Arial, sans-serif" font-size="80" font-weight="800" fill="#f8fafc">Rakesh Godumala</text>
+  <text x="100" y="350" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="600" fill="url(#g)">Frontend Developer | React.js Developer</text>
+  <text x="100" y="430" font-family="JetBrains Mono, monospace" font-size="28" fill="#94a3b8">React · JavaScript · Bootstrap · MERN · Hyderabad, India</text>
+</svg>
